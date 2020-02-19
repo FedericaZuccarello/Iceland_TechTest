@@ -35,3 +35,9 @@ source code and clear instructions on how to build, test and run the program (pr
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+To Run the solution follow the steps:
+*Copy and paste the code on a new Visual Studio project-App Console;
+*Run with the correct botton, Visual Studio will be build the code for you before run it;
+*Test the code using the instruction on the prompt;
+
+--------------------------------------------------------------------------------------------------------------------------------
